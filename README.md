@@ -101,6 +101,9 @@ We are building the epistemic infrastructure for a **post-fragmentation world**.
 
 ---
 
+NOTE: The name 'AquariuOS' is a placeholder. What matters is not the label but the covenant, the documented restraints that prevent this system from becoming what it exists to resist. If we must rename to preserve the covenant, we will. If someone else claims the name but abandons the covenant, they own the word but not the integrity. Verify implementations by checking the Credibility Ledger, not by trusting the name on the package.
+
+
 ## 🤝 Credits & Collaboration
 
 Created by: **Efren Gerard** (`EG`)
