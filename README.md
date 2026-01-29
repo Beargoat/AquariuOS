@@ -108,6 +108,7 @@ NOTE: The name 'AquariuOS' (including the names of any of its domains or feature
 
 Created by: **Efren Gerard** (`EG`)
 Inspired by: **Martin Luther King Jr.** | The U.S. Constitution | The open-source spirit | Systems theory | Magic without superstition
+Co-written by: Efren Gerard, Gemini, Claude and Chat GPT
 
 Signal Integrity Protocols co-developed with:
 👤 [u/MisterSirEsq](https://www.reddit.com/user/MisterSirEsq) — Creator of **ERRA**
