@@ -14,11 +14,11 @@ Major updates based on community feedback from r/AI_Governance, governance resea
 Download PDF | https://github.com/Beargoat/AquariuOS/blob/main/AquariuOS%20Alpha%20V101_020726.pdf
 What's New in V1.01:
 
-Foundational Axiom: "Accountability must be survivable" - constitutional core principle
-Data Portability Protocol: Exit costs addressed, history migrations enabled
-Architectural Floor: Unalienable rights hardcoded against democratic tyranny
-Adult Ceremony Extension: Lifelong growth pathway, not just childhood
-Temporal Weight Decay: Old errors lose weight as behavior improves
+Foundational Axiom: "Accountability must be survivable" - constitutional core principle.
+Data Portability Protocol: Exit costs addressed, history migrations enabled.
+Architectural Floor: Unalienable rights hardcoded against democratic tyranny.
+Adult Ceremony Extension: Lifelong growth pathway, not just childhood.
+Temporal Weight Decay: Old errors lose weight as behavior improves.
 
 See CHANGELOG.md for complete details.
 
