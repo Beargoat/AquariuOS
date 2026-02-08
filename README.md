@@ -8,8 +8,23 @@ This is not an app. This is not a product. This is a blueprint for a new civic a
 🚀 Status: Alpha V1 Released
 Alpha V1 was officially released on February 4, 2026.
 
-Download/Access Alpha V1 Here — Minimum Viable Transmission
-https://github.com/Beargoat/AquariuOS/blob/main/AquariuOS%20Alpha%20V1_020426.pdf
+Current Version
+Alpha V1.01 (February 7, 2026)
+Major updates based on community feedback from r/AI_Governance, governance researchers, and AI reviewers.
+Download PDF | View Changelog
+What's New in V1.01:
+
+Foundational Axiom: "Accountability must be survivable" - constitutional core principle
+Data Portability Protocol: Exit costs addressed, history migrations enabled
+Architectural Floor: Unalienable rights hardcoded against democratic tyranny
+Adult Ceremony Extension: Lifelong growth pathway, not just childhood
+Temporal Weight Decay: Old errors lose weight as behavior improves
+
+See CHANGELOG.md for complete details.
+
+Previous Versions:
+Alpha V1.0 (Feb 4, 2026)
+
 
 Current focus: Transitioning from design specs to functional protocol testing.
 
