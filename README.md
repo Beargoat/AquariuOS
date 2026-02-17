@@ -5,6 +5,8 @@ This is not an app. This is not a product. This is a blueprint for a new civic a
 
 AquariuOS is a constitutional framework for shared reality infrastructure. It addresses the fundamental challenge of our time: how do we coordinate at scale without surrendering autonomy, maintain accountability without making mistakes permanent, and build systems that resist capture while enabling human flourishing?
 
+Link: https://github.com/Beargoat/AquariuOS/blob/main/AquariuOS%20Alpha%20V1_02_0217.pdf
+
 🔐 The Privacy Paradox
 The core insight of AquariuOS: we cannot build shared reality without solving the privacy vs coordination dilemma.
 Current options are inadequate:
