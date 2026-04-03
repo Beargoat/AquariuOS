@@ -1,4 +1,4 @@
-# Changelog for AquariuOS V1.03
+# Changelog for AquariuOS V1.04
 
 ## AquariuOS V1.04, Release date April 3, 2026
 Front Matter
