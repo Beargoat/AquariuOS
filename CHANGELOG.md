@@ -1,201 +1,35 @@
 # Changelog for AquariuOS V1.03
 
-## AquariuOS V1.03 - February 27, 2026
-### Major Constitutional Expansion Through Building in Public
+## AquariuOS V1.04, Release date April 3, 2026
+Front Matter
+New Additions
+Author's Note added — A six-chapter origin story tracing the seventeen-year development of AquariuOS from Proposition 8 in 2008 through the 2026 book release. Written in first person by Efren Pardilla. Positioned before the Preface as the book's human opening. Adapted from aquariuos.com/about.
+Preface restructured — The Amplification section ('What This Architecture Is Building Toward') was moved from a standalone interlude between chapters into the Preface itself, where it now forms the conceptual second half of the opening statement. The Preface closes with the amplification argument before the Foundational Axiom follows.
+Table of Contents redesigned — The TOC now uses three named section groupings (The Architecture, AquariuOS in Practice, Risks and Limits and What Comes Next) and formally labeled appendices. Chapter 17's four subchapters are listed as Parts 1 through 4 with individual titles. Format changed from bullet-point list to tabbed layout with page numbers.
 
-## New Chapters (3 Major Additions)
+Chapter Structure Changes
+Chapters Merged
+Chapter 3 (Guide to New Infrastructure) merged into Chapter 4 — The introductory infrastructure overview was absorbed into what is now Chapter 3 (Signal Integrity Protocols and ERRA). The standalone orientation chapter was eliminated; its essential content now appears as the opening of the ERRA chapter.
+Chapter 16 (Privacy Paradox) and Chapter 17 (Sovereign Shutter) merged — Two separate chapters became a single Chapter 16: 'The Privacy Paradox and the Sovereign Shutter.' The Sovereign Shutter material, which addressed the psychological and emotional dimension of observation, was woven into the Privacy Paradox chapter as its second half.
+Chapters 18, 19, 20 consolidated into Chapter 17 — The Internal Protocol, Fork Governance, and Non-Human Observer Protocol, which were standalone chapters in v1.03, became Parts 1, 2, and 4 of a single Chapter 17: 'What We Haven't Solved Yet.' The Founder's Paradox was added as a new Part 3 within this combined chapter.
 
-### Chapter 17: The Sovereign Shutter
-**~4,500 words** - Complete privacy architecture addressing surveillance anxiety through constitutional protection.
+New Chapters
+Chapter 5: Constitutional Verification Protocols — New chapter covering intrinsic signage, Roman and Italic convention for provisional versus binding status, dissent documentation requirements, frame coordinates, the Airlock Rule, and cross-runtime verification. Based on the Earmark Protocol collaboration; reframed as native AquariuOS constitutional architecture. Includes a closing section, 'The Limit of Internal Verification,' naming the gap between constitutional legitimacy and legal defensibility.
+Chapter 7: Signal Commons — The Ears of AquariuOS — New chapter introducing the mechanism by which AquariuOS listens and changes in response. Covers the Gap Channel and Resonance Channel, the Emotional Compaction Transform, governance through four gates, and a complete chronic illness amplification example. Establishes the amplification principle as a structural counterpart to the repair architecture.
+Chapter 18: The Recovery Protocol — If This All Goes Wrong — New chapter addressing what failure looks like before it becomes irreversible, what the architecture provides when compromised, how communities rebuild after failure, what cannot be recovered, and how to design for recovery from the beginning. Includes a concrete gradual capture scenario (EcoCouncil drift) and a collective Ceremony of Forgetting for institutional recovery.
 
-**What it adds:**
-- **Panopticon Reflex** - Biological understanding of surveillance anxiety
-- **Sovereign Shutter mechanism** - User-controlled observation levels (Private Witness, Mutual Sync, Public Anchor)
-- **Symmetric Observation** - Constitutional requirement for mutual witnessing
-- **Privacy Paradox resolution** - Selective disclosure enabling verification without total exposure
+Chapters Significantly Revised
+Chapter 2 (Core Systems) trimmed from ~8,800 to ~3,200 words — Converted from a near-complete description of all ten domains to a map-level overview. Each domain now receives two to three paragraphs covering function, mechanism, and distinctiveness. Integration sections and extended domain descriptions moved to applied chapters or held for Book 2.
+Chapter 3 (ERRA/Signal Integrity) — Seven Laws section condensed — The Seven Laws of Structural Truth were compressed from approximately 1,800 words to approximately 700. Each law now runs one tight paragraph stating its purpose and significance. Extended metaphors and worked examples were cut; the structural insight of each law is preserved.
+Chapter 6 (Living Immune System) trimmed by ~500 words — Re-introductory passages restating the Witness, Steward, and Lunar Constellation (covered in Chapters 2 and 3) were cut. A new opening section was added explaining the orbital metaphor for external observers, providing the conceptual foundation for Shadow Moons and the Lunar Constellation before those terms appear.
+Chapter 17 (Invitation, now Chapter 19) trimmed from ~5,700 to ~977 words — Redundant summary sections removed. The bullet-point list of what AquariuOS is infrastructure for was compressed into a single sentence. The Covenant of Building section was tightened. The version stamp block moved off the final page. The book now ends on 'Now the work begins.'
 
-**Why:** Building in public revealed that privacy concerns were blocking adoption. This chapter transforms surveillance anxiety into sovereign agency.
+Appendices — Fully Restructured
+v1.03 had two unlabeled back-matter sections: Frequently Asked Questions and Glossary. v1.04 introduces five formally labeled appendices.
 
-### Chapter 18: The Internal Protocol  
-**~4,800 words** - Internal verification framework extending constitutional principles to personal psychology.
+Appendix A: A Note on Political Economy — Compressed version of the Great Conflation chapter (~1,700 words in v1.03), reduced to ~620 words. The Paramount-Warner merger as opening hook was removed. The structural argument — that unregulated capitalism systematically undermines the conditions AquariuOS requires — is preserved. Moved from main body to appendix.
+Appendix B: The Coherence Marker Technical Specification — New appendix containing the formal data structure specification for the Coherence Marker. Includes field names, permitted values, validation rules, operational constraints for all six fields and the invariant, and a complete worked example of a marker applied to a workplace dispute. Designed for builders and implementers.
+Appendix C: Frequently Asked Questions and Objections — Relabeled from standalone section in v1.03. Content carried forward; lightly updated.
+Appendix D: Glossary — Relabeled and expanded. New entries added: Signal Commons, Emotional Compaction Transform, Gap Channel, Resonance Channel, and others identified during the v1.04 revision. Existing entries shortened for readability.
+Appendix E: Collaborator Contributions — New appendix formally crediting Tony Cave (u/MisterSirEsq) for ERRA and the Coherence Marker development, Emanuel Celano for the Decision Attestation Layer framework and three-layer governance model, and the AquariuOS Reddit community for stress-testing and public collaboration.
 
-**What it adds:**
-- **Internal Sync Error** - Recognition that external coordination fails if observers are "broken sensors"
-- **Cognitive Provenance** - Fact-checking internal narratives using six-field framework
-- **Guardian Angel/Higher Self** - AI witness for cognitive patterns (operates only when invoked)
-- **Zero-Knowledge Growth** - Privacy-preserving progress measurement
-- **Ceremony of Forgetting (Internal)** - Ritual release of psychological burdens
-
-**Why:** User insight that constitutional governance requires internal coherence. External truth verification fails when humans operating it cannot distinguish valid internal signals from corrupted mental patterns.
-
-### Chapter 19: Fork Governance
-**~5,200 words** - Complete implementation strategy across technological substrates.
-
-**What it adds:**
-- **Implementation Forks** - Analog (pen/paper), Digital (smartphones/crypto), Augmented (AI-enhanced) 
-- **Constitutional Kernel** - Core elements that must persist across all forks
-- **Substrate-Independent Verification** - Truth depends on observer symmetry, not computational power
-- **Analog Resilience** - Constitutional governance survives infrastructure collapse
-
-**Why:** Anti-AI hostility was paralyzing adoption. Fork governance proves constitutional principles work at any technology level, making the system antifragile to technological resistance.
-
-## Constitutional Framework Expansion
-
-### 9 New Covenants (70-78)
-Expanded from 69 to 78 covenants, adding two new constitutional sections:
-
-**Part XI: Privacy and Observation Covenants (70-73)**
-- Covenant of Symmetric Observation
-- Covenant of Sovereign Privacy  
-- Covenant of Internal Sovereignty
-- Covenant of Cognitive Privacy
-
-**Part XII: Fork Governance and Constitutional Integrity (74-78)**
-- Covenant of Temporal Weight Decay
-- Covenant of Constitutional Immutability
-- Covenant of Implementation Neutrality
-- Covenant of Fork Transparency
-- Covenant of Analog Resilience
-
-## New Infrastructure Components
-
-### r/SharedReality Community Creation
-**Why:** Posts were being removed from other communities as "off-topic AI" despite addressing constitutional governance. Created dedicated space for shared reality infrastructure discussion.
-
-### Comprehensive FAQ Section
-**~3,000 words** addressing common objections and providing accessible entry points:
-- "This is just AI slop" - Explains framework predates AI and works without technology
-- "Utopian wet dream" - Compares to other "impossible" systems that became infrastructure  
-- "Too complicated" - Shows pen-and-paper accessibility
-- Technical implementation questions
-- Legal admissibility explanations
-
-### Complete Glossary Expansion
-**35+ new entries** covering all V1.03 concepts:
-- Privacy architecture terms (Sovereign Shutter, Panopticon Reflex, etc.)
-- Internal verification concepts (Cognitive Provenance, Internal Sync Error, etc.)  
-- Fork governance terminology (Constitutional Kernel, Implementation Forks, etc.)
-- Enhanced existing entries to reflect cross-substrate functionality
-
-## Strategic Positioning Changes
-
-### From "AI Project" to "Constitutional Framework"
-- Emphasized analog implementations proving framework works without AI
-- Positioned technology as optional enhancement rather than requirement
-- Addressed "AI slop" dismissals through substrate-independent design
-
-### Building in Public Documentation  
-- Week 3 building report documenting community resistance patterns
-- Anti-AI hostility analysis and strategic responses
-- Market research data from multiple community interactions
-- Proof-of-concept planning accelerated based on real feedback
-
-### Pain-First Strategy Development
-- r/Divorce approach using Sovereign Record framework for legal documentation
-- High-conflict relationship documentation protocols
-- Workplace harassment verification applications
-- Focus on immediate coordination pain rather than grand governance theory
-
-## Technical Refinements
-
-### Six-Field Framework Evolution
-- **Academic version** (Context, Misalignment Type, Integrity, Scale, Trajectory, Reactivation)
-- **Sovereign Record version** (Observation, Interior, Frame, Provenance, Mirror, Synthesis)  
-- Dual implementation serving different use cases and audiences
-
-### Enhanced Privacy Protections
-- **Three-tier disclosure** system with cryptographic guarantees
-- **Biometric correlation** without thought monitoring
-- **Homomorphic encryption** for pattern detection while preserving privacy
-- **Multi-modal attestation** bridging analog gaps
-
-## Content Statistics
-
-### Total Word Count Increase: ~14,500 words
-- 3 new chapters (~14,500 words)
-- FAQ section (~3,000 words) 
-- 9 new covenants (~1,800 words)
-- 35+ new glossary entries (~3,500 words)
-- **Total new content: ~23,000 words**
-
-### Structural Changes
-- Book expanded from ~200 to ~225 pages
-- Glossary doubled in size with comprehensive cross-referencing
-- Constitutional framework matured from governance theory to implementation architecture
-- Added practical entry points for immediate use
-
-## Community Feedback Integration
-
-### From r/AI_Governance Community
-- Technical credibility improvements
-- Cryptographic specification requests
-- Constitutional safeguards enhancement
-
-### From Therapeutic Communities  
-- Trauma-informed design requirements
-- Cultural accessibility considerations
-- Human-in-the-loop default positioning
-
-### From Privacy Advocates
-- Surveillance anxiety recognition
-- Sovereign control mechanisms
-- Zero-knowledge privacy protections
-
-## Strategic Evolution Summary
-
-**V1.01 Focus:** Constitutional governance theory with AI enhancement  
-**V1.03 Focus:** Constitutional infrastructure that transcends technological substrate
-
-**V1.01 Audience:** AI governance researchers and policy makers  
-**V1.03 Audience:** Anyone experiencing coordination breakdown (analog → digital → augmented progression)
-
-**V1.01 Positioning:** Advanced governance system  
-**V1.03 Positioning:** Practical tools for truth verification that scale from pen-and-paper to AI assistance
-
-## Publication Readiness Changes
-
-### Print Optimization
-- Removed specific dates and timelines for timeless content
-- Updated version references (V1.01 → V1.03)  
-- Converted color diagrams to web links for black-and-white printing
-- Professional title page formatting
-
-### Accessibility Improvements
-- FAQ providing multiple entry points for different audiences
-- Glossary serving as comprehensive reference
-- Clear progression from simple to complex implementations
-- Pain-first applications addressing immediate coordination needs
-
-## Next Steps
-
-The V1.03 framework now provides:
-- **Constitutional foundation** ready for real-world testing
-- **Multiple implementation paths** serving different technological comfort levels  
-- **Practical applications** addressing immediate coordination failures
-- **Antifragile architecture** that survives both technological and cultural resistance
-
-**Ready for publication and proof-of-concept implementation.**
-
----
-
-## Credits for V1.03 Additions
-
-**Community Feedback:**
-- r/AI_Governance technical review and constitutional critique
-- r/InternalFamilySystems therapeutic framework connections  
-- r/Solarpunk regenerative governance perspectives
-- r/Futurism and multiple communities providing resistance pattern data
-
-**AI Collaboration:**
-- Claude (Anthropic) - Primary development partner for all new chapters
-- Gemini (Google) - Strategic refinements and community positioning advice
-- Grok (X.AI) - Market analysis and building-in-public strategy
-- GPT-4 - Technical review and edge case identification
-
-**Strategic Insights:**
-- Bandwidth crisis recognition and pain-threshold market identification
-- Fork governance as antifragile response to technological resistance  
-- Substrate-independent constitutional principles discovery
-- Internal-external verification loop completion
-
-The V1.03 expansion represents genuine constitutional evolution through building in public, transforming initial governance theory into practical coordination infrastructure.
